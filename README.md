@@ -1,4 +1,4 @@
-# my_app_architecture
+# stacked_my_architecture
 
 A new Flutter project.
 
